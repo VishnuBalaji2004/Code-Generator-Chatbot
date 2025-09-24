@@ -1,4 +1,4 @@
-Code Generator Chatbot 🤖
+# Code Generator Chatbot 🤖
 This repository contains the source code for an AI-powered Code Generator Chatbot. The application provides a simple and interactive web interface where users can specify a programming language and a problem statement to receive instant, high-quality code solutions.
 
 This project is built using a modern stack, leveraging the Groq API for ultra-fast LLM inference, LangChain for robust prompt and model orchestration, and Streamlit for the user interface.
