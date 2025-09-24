@@ -1,5 +1,6 @@
 from langchain_groq import ChatGroq
 
+
 def create_chat_gorq():
     """
     Function to initialize chat gorq
